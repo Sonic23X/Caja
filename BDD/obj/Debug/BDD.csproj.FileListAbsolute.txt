@@ -1,0 +1,15 @@
+C:\Users\omara\source\repos\BDD\BDD\obj\Debug\BDD.csprojResolveAssemblyReference.cache
+C:\Users\omara\source\repos\BDD\BDD\obj\Debug\BDD.Properties.Resources.resources
+C:\Users\omara\source\repos\BDD\BDD\obj\Debug\BDD.csproj.GenerateResource.Cache
+C:\Users\omara\source\repos\BDD\BDD\obj\Debug\BDD.csproj.CoreCompileInputs.cache
+C:\Users\omara\source\repos\BDD\BDD\bin\Debug\BDD.exe.config
+C:\Users\omara\source\repos\BDD\BDD\bin\Debug\BDD.exe
+C:\Users\omara\source\repos\BDD\BDD\bin\Debug\BDD.pdb
+C:\Users\omara\source\repos\BDD\BDD\bin\Debug\MySql.Data.dll
+C:\Users\omara\source\repos\BDD\BDD\bin\Debug\MySql.Data.xml
+C:\Users\omara\source\repos\BDD\BDD\obj\Debug\BDD.exe
+C:\Users\omara\source\repos\BDD\BDD\obj\Debug\BDD.pdb
+C:\Users\omara\source\repos\BDD\BDD\obj\Debug\BDD.Login.resources
+C:\Users\omara\source\repos\BDD\BDD\obj\Debug\BDD.Main.resources
+C:\Users\omara\source\repos\BDD\BDD\obj\Debug\BDD.User_N.resources
+C:\Users\omara\source\repos\BDD\BDD\obj\Debug\BDD.EQuery.resources
